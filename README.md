@@ -7,11 +7,25 @@
    
 
 
+## 获取途径：
+
+网盘地址：链接：https://pan.baidu.com/s/1B1kMlnKaJ3TpDlmB0KYQeg   提取码：p3l8    
+
+①对于.exe可运行版本，从网盘任意下载ICHAutoWordSegGUI.7z或ICHAutoWordSegGUI.zip压缩文件。   
+
+②对于python源码版，先下载本项目SourceCodes源码，再从网盘下载roberta_6文件夹并覆盖项目源码中同名文件夹。   
+   
+
+
+
 ## 使用方法：
 
-①下载并解压ICHAutoWordSegGUI.zip后，双击ICHAutoWordSegGUI.exe运行。   
+①对于.exe可运行版本，解压后，双击ICHAutoWordSegGUI.exe运行。   
 
-②下载源码后，根据environment.yml配置运行环境，执行python ICHAutoWordSegGUI.py运行。   
+②对于python源码版，根据environment.yml配置运行环境后，执行python ICHAutoWordSegGUI.py运行。   
+
+
+## 图文示例：
 
 软件操作图文示例参见2021年第十一届全国情报学博士生学术论坛研究论文《数字人文视角下的非物质文化遗产文本自动分词研究》。   
 
